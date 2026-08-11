@@ -41,7 +41,9 @@
               color:#5a3b1e; border:2px solid transparent; 
               border-radius:8px; transition:0.3s;">
       🍪 クッキー評価
-    </a>
+    ## 🔗 クッキー評価一覧はこちら
+➡ [クッキー評価一覧を見る](cookie-list.md)
+
 
     <a href="/pets" 
        style="margin:0 18px; padding:8px 14px; 
