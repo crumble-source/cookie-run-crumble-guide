@@ -1,20 +1,75 @@
 <!-- ===================== -->
-<!--      ヘッダー＋メニュー      -->
+<!--   豪華版ヘッダー＋メニュー   -->
 <!-- ===================== -->
 
-<div style="width:100%; padding:20px 0; background:#f7d8b9; text-align:center; border-bottom:3px solid #e0b48c;">
-  <h1 style="margin:0; font-size:32px;">🍪 クッキーラン：クランブル攻略サイト</h1>
-  <p style="margin:5px 0 15px; font-size:16px;">最新攻略・最強編成・育成ガイドをまとめた総合サイト</p>
+<div style="width:100%; padding:25px 0; 
+            background:linear-gradient(90deg, #f7d8b9, #f3c49b); 
+            text-align:center; 
+            border-bottom:4px solid #d9a673;
+            box-shadow:0 4px 8px rgba(0,0,0,0.15);">
 
-  <!-- メニュー（ナビバー） -->
+  <h1 style="margin:0; font-size:36px; color:#5a3b1e;">
+    🍪 クッキーラン：クランブル攻略サイト
+  </h1>
+
+  <p style="margin:8px 0 18px; font-size:17px; color:#6b4a2b;">
+    最新攻略・最強編成・育成ガイドをまとめた総合サイト
+  </p>
+
+  <!-- 豪華メニュー（ナビバー） -->
   <div style="margin-top:10px;">
-    <a href="/" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🏠 ホーム</a>
-    <a href="/meta" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🔥 最強編成</a>
-    <a href="/cookies" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🍪 クッキー評価</a>
-    <a href="/pets" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🐾 ペット評価</a>
-    <a href="/beginner" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🎮 初心者ガイド</a>
+
+    <a href="/" 
+       style="margin:0 18px; padding:8px 14px; 
+              font-size:18px; text-decoration:none; 
+              color:#5a3b1e; border:2px solid transparent; 
+              border-radius:8px; transition:0.3s;">
+      🏠 ホーム
+    </a>
+
+    <a href="/meta" 
+       style="margin:0 18px; padding:8px 14px; 
+              font-size:18px; text-decoration:none; 
+              color:#5a3b1e; border:2px solid transparent; 
+              border-radius:8px; transition:0.3s;">
+      🔥 最強編成
+    </a>
+
+    <a href="/cookies" 
+       style="margin:0 18px; padding:8px 14px; 
+              font-size:18px; text-decoration:none; 
+              color:#5a3b1e; border:2px solid transparent; 
+              border-radius:8px; transition:0.3s;">
+      🍪 クッキー評価
+    </a>
+
+    <a href="/pets" 
+       style="margin:0 18px; padding:8px 14px; 
+              font-size:18px; text-decoration:none; 
+              color:#5a3b1e; border:2px solid transparent; 
+              border-radius:8px; transition:0.3s;">
+      🐾 ペット評価
+    </a>
+
+    <a href="/beginner" 
+       style="margin:0 18px; padding:8px 14px; 
+              font-size:18px; text-decoration:none; 
+              color:#5a3b1e; border:2px solid transparent; 
+              border-radius:8px; transition:0.3s;">
+      🎮 初心者ガイド
+    </a>
+
   </div>
 </div>
+
+<!-- ホバー効果（GitHub Pagesでも動く） -->
+<style>
+a:hover {
+  background:#fff3e0;
+  border-color:#d9a673;
+  color:#3e2a18 !important;
+}
+</style>
 
 <br>
 
