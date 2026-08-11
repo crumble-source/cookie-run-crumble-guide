@@ -1,4 +1,24 @@
 <!-- ===================== -->
+<!--      ヘッダー＋メニュー      -->
+<!-- ===================== -->
+
+<div style="width:100%; padding:20px 0; background:#f7d8b9; text-align:center; border-bottom:3px solid #e0b48c;">
+  <h1 style="margin:0; font-size:32px;">🍪 クッキーラン：クランブル攻略サイト</h1>
+  <p style="margin:5px 0 15px; font-size:16px;">最新攻略・最強編成・育成ガイドをまとめた総合サイト</p>
+
+  <!-- メニュー（ナビバー） -->
+  <div style="margin-top:10px;">
+    <a href="/" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🏠 ホーム</a>
+    <a href="/meta" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🔥 最強編成</a>
+    <a href="/cookies" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🍪 クッキー評価</a>
+    <a href="/pets" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🐾 ペット評価</a>
+    <a href="/beginner" style="margin:0 15px; font-size:18px; text-decoration:none; color:#8b5a2b;">🎮 初心者ガイド</a>
+  </div>
+</div>
+
+<br>
+
+<!-- ===================== -->
 <!--      ヘッダー部分      -->
 <!-- ===================== -->
 
