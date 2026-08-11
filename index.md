@@ -43,6 +43,31 @@
       🍪 クッキー評価
     ## 🔗 クッキー評価一覧はこちら
 ➡ [クッキー評価一覧を見る](cookie-list.md)
+---
+
+## 🌪 Wind Archer Cookie（ウィンドアーチャークッキー）
+
+[![Wind Archer](images/wind-archer.png)](cookies/wind-archer.md)
+
+**ランク：SS**  
+**役割：射撃**  
+**属性：草属性**
+
+➡ [Wind Archer の詳細を見る](cookies/wind-archer.md)
+
+---
+
+## 🔥 Oven Wanderer Cookie（オーブン放浪者クッキー）
+
+[![Oven Wanderer](images/oven-wanderer.png)](cookies/oven-wanderer.md)
+
+**ランク：A+**  
+**役割：突撃**  
+**属性：火属性**
+
+➡ [Oven Wanderer の詳細を見る](cookies/oven-wanderer.md)
+
+---
 
 
     <a href="/pets" 
