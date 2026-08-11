@@ -165,11 +165,8 @@ a:hover {
 <!-- ===================== -->
 <!--      フッター部分      -->
 <!-- ===================== -->
-
 <div style="width:100%; padding:15px 0; background:#f7d8b9; text-align:center; border-top:3px solid #e0b48c;">
   <p style="margin:0; font-size:14px;">© 2026 クッキーラン：クランブル攻略サイト</p>
-  <p style="margin:5px 0 0; font-size:14px;">このサイトは巧真が作成中です。</p>
+  <p style="margin:5px 0 0; font-size:14px;"
 </div>
 
-
-このサイトはNが作成中です。
